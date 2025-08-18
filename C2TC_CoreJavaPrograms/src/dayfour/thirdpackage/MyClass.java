@@ -1,4 +1,4 @@
-package daythree.thirdpackage;
+package dayfour.thirdpackage;
 
 public class MyClass {
 	private static MyClass obj=new MyClass();
