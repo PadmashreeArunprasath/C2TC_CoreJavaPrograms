@@ -1,4 +1,4 @@
-package dayfive.association.hierarchicalinheritance;
+package dayfive.hierarchicalinheritance;
 
 public class Employee extends Person{
 	private int empId;

@@ -1,4 +1,4 @@
-package dayfive.association.hierarchicalinheritance;
+package dayfive.hierarchicalinheritance;
 
 public class HierarchicalInhDemo {
 	public static void main(String[] args) {
